@@ -1,0 +1,1 @@
+[{"fname":"Rashed","lname":"Khan","class":12,"roll":5,"age":18},{"fname":"Jasmin","lname":"Ara","class":12,"roll":15,"age":17},{"fname":"Afia","lname":"Jannat","class":12,"roll":1,"age":16}]
