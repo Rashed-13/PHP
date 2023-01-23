@@ -84,13 +84,15 @@ $b = array(
         'roll'  => 7,
     )
 );
-$a = array_column($b,'roll','id');
+// $a = array_column($b,'roll','id');
 
-print_r($a);
+// print_r($a);
 
-echo max($a);
+// echo max($a);
 
+// echo php_uname();
 
+echo sha1('starlord');
 
 
 ?>
